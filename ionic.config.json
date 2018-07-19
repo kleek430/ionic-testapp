@@ -1,6 +1,6 @@
 {
-  "name": "testapp",
-  "app_id": "170f6daa",
+  "name": "InJamTestApp",
+  "app_id": "com.innjam.testApp",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
